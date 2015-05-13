@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ComputeBMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="weight">请输入您的体重：</string>
+    <string name="height">请输入您的身高：</string>
+    <string name="showBMI">您的BMI系数为：</string>
+    <string name="btshow">计算您的BMI体重系数</string>
+
+</resources>
